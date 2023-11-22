@@ -15,6 +15,7 @@ You are required to model the price of houses with the available independent var
 
 **Observation**
 - Top 5 features in the Lasso Regression
+
       1. 1stFlrSF	
       2. 2ndFlrSF	
       3. OverallQual	
